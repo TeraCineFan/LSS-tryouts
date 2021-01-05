@@ -34,9 +34,9 @@ Lädt die letzte bookmarks_lssm.html Datei [hier](https://github.com/buLLzAT/LSS
 
 ## Schritt 2
 
-Import the downloaded file in your browser
+Importiert die heruntergeladene Datei in euren Browser
 
-Follow the instructions provided here
+Hier findet ihr Anleitungen für euren jeweiligen Browser
 
 Browser|Link
 -------|----
