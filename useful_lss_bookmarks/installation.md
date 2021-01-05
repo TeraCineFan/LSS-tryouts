@@ -5,7 +5,7 @@
 
 ## Step 1
 
-Download my latest bookmarks_lssm.html file [here](https://github.com/buLLzAT/LSS-tryouts/releases)
+Download my latest bookmarks_lss.html file [here](https://github.com/buLLzAT/LSS-tryouts/releases)
 
 ## Step 2
 
@@ -30,7 +30,7 @@ Have Fun! :)
 
 ## Schritt 1
 
-Lädt die letzte bookmarks_lssm.html Datei [hier](https://github.com/buLLzAT/LSS-tryouts/releases) runter
+Lädt die letzte bookmarks_lss.html Datei [hier](https://github.com/buLLzAT/LSS-tryouts/releases) runter
 
 ## Schritt 2
 
